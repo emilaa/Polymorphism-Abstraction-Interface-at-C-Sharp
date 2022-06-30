@@ -1,0 +1,14 @@
+C:\Users\Emil Abdullayev\Desktop\My Projects\My Homework\Polymorphism, Abstraction, Interface\Polymorphism, Abstraction, Interface\bin\Debug\netcoreapp3.1\Polymorphism, Abstraction, Interface.exe
+C:\Users\Emil Abdullayev\Desktop\My Projects\My Homework\Polymorphism, Abstraction, Interface\Polymorphism, Abstraction, Interface\bin\Debug\netcoreapp3.1\Polymorphism, Abstraction, Interface.deps.json
+C:\Users\Emil Abdullayev\Desktop\My Projects\My Homework\Polymorphism, Abstraction, Interface\Polymorphism, Abstraction, Interface\bin\Debug\netcoreapp3.1\Polymorphism, Abstraction, Interface.runtimeconfig.json
+C:\Users\Emil Abdullayev\Desktop\My Projects\My Homework\Polymorphism, Abstraction, Interface\Polymorphism, Abstraction, Interface\bin\Debug\netcoreapp3.1\Polymorphism, Abstraction, Interface.runtimeconfig.dev.json
+C:\Users\Emil Abdullayev\Desktop\My Projects\My Homework\Polymorphism, Abstraction, Interface\Polymorphism, Abstraction, Interface\bin\Debug\netcoreapp3.1\Polymorphism, Abstraction, Interface.dll
+C:\Users\Emil Abdullayev\Desktop\My Projects\My Homework\Polymorphism, Abstraction, Interface\Polymorphism, Abstraction, Interface\bin\Debug\netcoreapp3.1\Polymorphism, Abstraction, Interface.pdb
+C:\Users\Emil Abdullayev\Desktop\My Projects\My Homework\Polymorphism, Abstraction, Interface\Polymorphism, Abstraction, Interface\obj\Debug\netcoreapp3.1\Polymorphism, Abstraction, Interface.csproj.AssemblyReference.cache
+C:\Users\Emil Abdullayev\Desktop\My Projects\My Homework\Polymorphism, Abstraction, Interface\Polymorphism, Abstraction, Interface\obj\Debug\netcoreapp3.1\Polymorphism, Abstraction, Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emil Abdullayev\Desktop\My Projects\My Homework\Polymorphism, Abstraction, Interface\Polymorphism, Abstraction, Interface\obj\Debug\netcoreapp3.1\Polymorphism, Abstraction, Interface.AssemblyInfoInputs.cache
+C:\Users\Emil Abdullayev\Desktop\My Projects\My Homework\Polymorphism, Abstraction, Interface\Polymorphism, Abstraction, Interface\obj\Debug\netcoreapp3.1\Polymorphism, Abstraction, Interface.AssemblyInfo.cs
+C:\Users\Emil Abdullayev\Desktop\My Projects\My Homework\Polymorphism, Abstraction, Interface\Polymorphism, Abstraction, Interface\obj\Debug\netcoreapp3.1\Polymorphism, Abstraction, Interface.csproj.CoreCompileInputs.cache
+C:\Users\Emil Abdullayev\Desktop\My Projects\My Homework\Polymorphism, Abstraction, Interface\Polymorphism, Abstraction, Interface\obj\Debug\netcoreapp3.1\Polymorphism, Abstraction, Interface.dll
+C:\Users\Emil Abdullayev\Desktop\My Projects\My Homework\Polymorphism, Abstraction, Interface\Polymorphism, Abstraction, Interface\obj\Debug\netcoreapp3.1\Polymorphism, Abstraction, Interface.pdb
+C:\Users\Emil Abdullayev\Desktop\My Projects\My Homework\Polymorphism, Abstraction, Interface\Polymorphism, Abstraction, Interface\obj\Debug\netcoreapp3.1\Polymorphism, Abstraction, Interface.genruntimeconfig.cache
